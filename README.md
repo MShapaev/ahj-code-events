@@ -1,4 +1,7 @@
-![CI](https://github.com/MShapaev/ahj-homeworks-events/actions/workflows/web.yml/badge.svg)
+```md
+![CI](https://github.com/MShapaev/ahj-code-env/actions/workflows/web.yml/badge.svg)
+```
+https://ci.appveyor.com/project/MShapaev/ahj-code-events
 
 # Домашнее задание к занятию "3.Обработка событий"
 
