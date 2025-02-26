@@ -1,7 +1,4 @@
-```md
-![CI](https://github.com/MShapaev/ahj-code-env/actions/workflows/web.yml/badge.svg)
-```
-https://ci.appveyor.com/project/MShapaev/ahj-code-events
+[![Build status](https://ci.appveyor.com/api/projects/status/49uj090oi2r06kkw?svg=true)](https://ci.appveyor.com/project/MShapaev/ahj-code-events)
 
 # Домашнее задание к занятию "3.Обработка событий"
 
